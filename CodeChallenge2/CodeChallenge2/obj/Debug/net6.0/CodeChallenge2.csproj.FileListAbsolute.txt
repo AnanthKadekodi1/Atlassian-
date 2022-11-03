@@ -1,0 +1,15 @@
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\bin\Debug\net6.0\CodeChallenge2.exe
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\bin\Debug\net6.0\CodeChallenge2.deps.json
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\bin\Debug\net6.0\CodeChallenge2.runtimeconfig.json
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\bin\Debug\net6.0\CodeChallenge2.dll
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\bin\Debug\net6.0\CodeChallenge2.pdb
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.csproj.AssemblyReference.cache
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.AssemblyInfoInputs.cache
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.AssemblyInfo.cs
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.dll
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\refint\CodeChallenge2.dll
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.pdb
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\CodeChallenge2.genruntimeconfig.cache
+C:\Users\TABKAD\Downloads\Atlassian\CodeChallenge2\CodeChallenge2\obj\Debug\net6.0\ref\CodeChallenge2.dll

@@ -1,0 +1,15 @@
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.exe
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.deps.json
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.runtimeconfig.json
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.dll
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.pdb
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.csproj.AssemblyReference.cache
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.AssemblyInfoInputs.cache
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.AssemblyInfo.cs
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.dll
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\refint\VotingSystem.dll
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.pdb
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.genruntimeconfig.cache
+C:\Users\TABKAD\Downloads\Atlassian\VotingSystem\VotingSystem\obj\Debug\net6.0\ref\VotingSystem.dll

@@ -1,0 +1,6 @@
+C:\Users\TABKAD\Downloads\Atlassian\CodingTest\CodingChallengeTestCases\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\TABKAD\Downloads\Atlassian\CodingTest\CodingChallengeTestCases\obj\Debug\net6.0\CodingChallengeTestCases.csproj.AssemblyReference.cache
+C:\Users\TABKAD\Downloads\Atlassian\CodingTest\CodingChallengeTestCases\obj\Debug\net6.0\CodingChallengeTestCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TABKAD\Downloads\Atlassian\CodingTest\CodingChallengeTestCases\obj\Debug\net6.0\CodingChallengeTestCases.AssemblyInfoInputs.cache
+C:\Users\TABKAD\Downloads\Atlassian\CodingTest\CodingChallengeTestCases\obj\Debug\net6.0\CodingChallengeTestCases.AssemblyInfo.cs
+C:\Users\TABKAD\Downloads\Atlassian\CodingTest\CodingChallengeTestCases\obj\Debug\net6.0\CodingChallengeTestCases.csproj.CoreCompileInputs.cache

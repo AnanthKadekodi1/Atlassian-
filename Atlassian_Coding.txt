@@ -1,0 +1,72 @@
+Hi Maria,
+
+Thanks for reaching out. I am certainly interested in the roles. 
+
+However, I am currently in Australia but looking to move to the UK in 2 months (hope that's okay with the companies!) and will not be needing sponsorship.
+
+Please let me know if you are still interested in progressing? I am happy to have a chat via google meet/Teams/Skype or alternatively my mobile is +61 481 395 230. I am available between 9am - 3 pm BST.
+
+Kind Regards
+Ananth Kadekodi  
+
+113 + super + 10% bonus + 155K USD over 4 years
+
+2 x 60 min coding interviews, code design and data structure knoweldged
+Approach to problem and how you think about
+
+1 - Ask good clarifyng questins are beginning
+2 - Confirm that you understood teh queston
+3 - Dont assume and verify assumption
+4 - Continuously talk about thinking processor 
+
+45 min interview and 10 min ask questions
+Setup IDE on my own environment 
+loko at my IDE
+Tech agnostic process - can use google 
+problem will be ambigious
+
+keep asking queston and make explicit questions - 
+
+1- code quality, cle
+variable names, write unit tests,
+2- Adaptabiity - new requirement (solve in a differnet way) and justify the appraoch I am making. Open for feedback and guidance and stand behind decison
+3- Proactive, look for bugs, ioslate requiremtn of the question first
+30 Computer science fundaments - complexity analyss- lits, sorting, maps and hash tables
+4 - Break problem into components - 
+5 - Big  0 notaion and space time complexity. 
+4- Decision making, - Make a decision, talk about trade-off (user impact, maintanability, scalability etc) pros and cons of this data structure over the other. We hae this data strcuture but we also have alternatives. 
+6 - Effetive with time maagement and come to working souton and askng right questn
+
+mentor and mentee - backend coding interviews sample atlassian . Leetcode
+2.5 hours Sydney time. 
+
+
+https://www.geeksforgeeks.org/find-winner-election-votes-represented-candidate-names/
+
+https://www.geeksforgeeks.org/frequent-word-array-strings/
+
+
+
+
+
+Code Design and Data Structures
+Any coding language
+google to be used for syntax
+code design - desgning a solution, encapsulation, question has variation, each enforcing a different challenge.
+assessing whether I can properly layout code, such as java - classes
+
+Data structures, know when to use the different data structures and 
+focus on list, sets, maps. 
+
+everything I do in current role. IDE Setup and ready
+Problem is ambigious and ask clarifying quesiton. - keep asking clariyfing question. explicit assumptionm
+bring me back on track
+interviewer will adding new requirement. 
+
+5 capabilities - code quality (readable, structured and maintainble, variable naming etc), consider tester, unit tests, TDD, recalibrate problem cases, edge cases, 
+adaptability - resilient and flexible - challenges such as new requirement, solve problem in different way, justify, 
+conceptional thinking - good programming fundamentals, brush up on programming fundamentals. space time complexity and the big o for average best and worst case, data structures and benefits compared to each other
+decision making - problem solving process and structure and talk about trade off. hashmap - talk through the pros and cons and why you approached it. 
+resource - how effectively we use resource (try to consider scalability)
+
+google, glassdoor, youtube (coding rounds at atlassian), puzzle like programming
